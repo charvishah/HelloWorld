@@ -1,0 +1,12 @@
+com\charvi\controller\DeleteUserController.class
+com\charvi\exception\ServiceException.class
+com\charvi\controller\RegistrationController.class
+com\charvi\service\UserService.class
+com\charvi\exception\DaoException.class
+com\charvi\dao\UserDao.class
+com\charvi\service\RegistrationService.class
+com\charvi\controller\LoginController.class
+com\charvi\userInfo\User.class
+com\charvi\model\RegisterForm.class
+com\charvi\model\LoginForm.class
+com\charvi\util\DBConnection.class
